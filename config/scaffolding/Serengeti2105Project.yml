@@ -12,3 +12,8 @@ packages:
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
   gitBranch: master
+- name: upperfspackage
+  gitServerName: bit
+  gitUrl: https://bitbucket.org/testartiibm
+  gitUsername: artikhare
+  gitBranch: master
