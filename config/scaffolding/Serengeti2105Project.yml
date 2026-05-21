@@ -8,7 +8,7 @@ packages:
   gitUsername: ArtiKhareNew
   gitBranch: main
 - name: substractpackage
-  gitServerName: src_shared_GitLabCtrl_Arti
+  gitServerName: src_GitLabCtrl_Arti
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
   gitBranch: master
